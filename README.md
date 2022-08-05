@@ -1,2 +1,2 @@
 # javaScript_problem
-Algorithm
+bubble Sort  algorithm || Binary search algorithm 
